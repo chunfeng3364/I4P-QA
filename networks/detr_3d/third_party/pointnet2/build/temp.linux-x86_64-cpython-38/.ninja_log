@@ -1,0 +1,10 @@
+# ninja log v5
+2	17179	1708933101780416389	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	f63d89d8d473c506
+4	17250	1708933101806285088	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	68627514bf4e1eb2
+3	17485	1708933102085066534	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	d562dff7f347b292
+4	17545	1708933102142335566	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	e33ad5c6e5fe30d8
+2	21844	1708933106425834415	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	ba3d04f60049a268
+4	21981	1708933106526047732	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	2dea50d08004100e
+2	22227	1708933106683581152	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	12b9c49ea9221c02
+3	22235	1708933106684527344	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	af18ab490313c724
+3	22339	1708933106907587901	/storage_fast/cfeng/scanqa/3d_backbone/Vote2Cap-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	1358a5d179103b71
