@@ -5,7 +5,7 @@ In repo contains the code for "Leveraging Pre-trained Knowledge from 2D Foundati
 ## Install
 Please create an env for this project using anaconda (should install [anaconda](https://docs.anaconda.com/anaconda/install/linux/) first)
 ```
->conda create -n 3dqa python==3.7.13
+>conda create -n 3dqa python==3.8.13
 >conda activate 3dqa
 >pip install -r requirements.txt 
 ```
